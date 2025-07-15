@@ -1,0 +1,81 @@
+🔄 Loading audio: /content/part1.mp3
+Transcribing: 100%|██████████| 1/1 [00:00<00:00,  1.37it/s]
+[Chunk 0] ➤ with the very latest thirty percent (Latency: 0.76s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 10.53it/s]
+[Chunk 1] ➤ tariffs on the e u and mexico (Latency: 0.12s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 12.73it/s]
+[Chunk 2] ➤ announced by the trumpet ministration (Latency: 0.1s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 14.17it/s]
+[Chunk 3] ➤ we have additional (Latency: 0.09s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 18.33it/s]
+[Chunk 4] ➤ on other countries last week including japan (Latency: 0.07s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 18.04it/s]
+[Chunk 5] ➤ south korea canada and (Latency: 0.07s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 18.15it/s]
+[Chunk 6] ➤ brazil plus the fifty percent (Latency: 0.07s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 17.42it/s]
+[Chunk 7] ➤ tariff on all copper imports (Latency: 0.08s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 17.21it/s]
+[Chunk 8] ➤ going to get in to the importance of dr (Latency: 0.08s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 17.94it/s]
+[Chunk 9] ➤ copper in just a couple of minutes (Latency: 0.08s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 17.13it/s]
+[Chunk 10] ➤ also twenty five percent tariffs south (Latency: 0.08s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 15.89it/s]
+[Chunk 11] ➤ korea and japan a potential (Latency: 0.08s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 17.76it/s]
+[Chunk 12] ➤ thirty five percent blanket tariff (Latency: 0.08s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 18.51it/s]
+[Chunk 13] ➤ on canadian goods we thought the (Latency: 0.07s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 14.50it/s]
+[Chunk 14] ➤ negotiations underway there those (Latency: 0.09s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 15.85it/s]
+[Chunk 15] ➤ look very strong at the moment but a (Latency: 0.08s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 16.73it/s]
+[Chunk 16] ➤ also we have massive tariff (Latency: 0.08s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 18.07it/s]
+[Chunk 17] ➤ and blanket tariffs potentially (Latency: 0.07s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 17.26it/s]
+[Chunk 18] ➤ against countries we haven't even heard from we haven't heard (Latency: 0.08s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 18.72it/s]
+[Chunk 19] ➤ a lot from china lately (Latency: 0.07s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 17.60it/s]
+[Chunk 20] ➤ that's obviously a big trade partner when all (Latency: 0.07s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 18.83it/s]
+[Chunk 21] ➤ comes down to is what are we (Latency: 0.07s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 18.70it/s]
+[Chunk 22] ➤ importing into this country what's get (Latency: 0.07s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 18.41it/s]
+[Chunk 23] ➤ the tariff and where the reciprocal (Latency: 0.07s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 18.85it/s]
+[Chunk 24] ➤ tariffs and as a country we import (Latency: 0.07s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 19.40it/s]
+[Chunk 25] ➤ about four point one four (Latency: 0.07s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 17.83it/s]
+[Chunk 26] ➤ trillion dollars worth of goods as of last (Latency: 0.08s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 17.45it/s]
+[Chunk 27] ➤ year we export three point two (Latency: 0.08s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 18.01it/s]
+[Chunk 28] ➤ three trillion there's your trade deficit right (Latency: 0.08s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 17.19it/s]
+[Chunk 29] ➤ there nine hundred billion dollars that's (Latency: 0.08s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 17.60it/s]
+[Chunk 30] ➤ this administration is trying to close up (Latency: 0.07s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 17.97it/s]
+[Chunk 31] ➤ and it wants countries to pay for the (Latency: 0.07s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 17.71it/s]
+[Chunk 32] ➤ a privilege of selling their products in (Latency: 0.08s)
+Transcribing: 100%|██████████| 1/1 [00:00<00:00, 16.59it/s]
+[Chunk 33] ➤ to us consumers and what are we talking about (Latency: 0.08s)
+Transcribing:   0%|          | 0/1 [00:00<?, ?it/s]
+⚠️ ASR error on chunk 34: Argument #4: Padding size should be less than the corresponding input dimension, but got: padding (256, 256) at dimension 2 of input [1, 1, 176]
+[Chunk 34] ➤  (Latency: 0.12s)
+
+📜 Full Transcription:
+with the very latest thirty percent tariffs on the e u and mexico announced by the trumpet ministration we have additional on other countries last week including japan south korea canada and brazil plus the fifty percent tariff on all copper imports going to get in to the importance of dr copper in just a couple of minutes also twenty five percent tariffs south korea and japan a potential thirty five percent blanket tariff on canadian goods we thought the negotiations underway there those look very strong at the moment but a also we have massive tariff and blanket tariffs potentially against countries we haven't even heard from we haven't heard a lot from china lately that's obviously a big trade partner when all comes down to is what are we importing into this country what's get the tariff and where the reciprocal tariffs and as a country we import about four point one four trillion dollars worth of goods as of last year we export three point two three trillion there's your trade deficit right there nine hundred billion dollars that's this administration is trying to close up and it wants countries to pay for the a privilege of selling their products in to us consumers and what are we talking about
+
+🌍 Translated Text (hi):
+सबसे हाल के तीस प्रतिशत टैरिफ के साथ ई यू और मेक्सिको ट्रम्प मंत्रालय द्वारा घोषित हम पिछले हफ्ते सहित जापान दक्षिण कोरिया कनाडा और ब्राजील के साथ-साथ सभी तांबे आयात पर पचास प्रतिशत टैरिफ केवल कुछ ही मिनटों में डॉ तांबे के महत्व तक पहुंचने के लिए जा रहा है के साथ-साथ बीस प्रतिशत टैरिफ दक्षिण कोरिया और जापान के लिए एक संभावित तीस-पांच प्रतिशत टैरिफ कनाडाई वस्तुओं के लिए हमने सोचा कि बातचीत चल रही है वहाँ वे अभी बहुत मजबूत दिखते हैं लेकिन एक भी हम बड़े पैमाने पर टैरिफ और टैरिफ टैरिफ संभावित रूप से उनके देशों के खिलाफ हमने भी नहीं सुना है कि हमने चीन से बहुत कुछ नहीं सुना है कि यह स्पष्ट रूप से एक
+
+🕒 STT+Translation Total Latency: 84.41s
+🕒 Translation Latency: 71.7s
